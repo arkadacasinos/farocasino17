@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://farocasino17.vercel.app/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://farocasino17.vercel.app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://farocasino17.vercel.app/" />
+    <image:image>
+      <image:loc>https://farocasino17.vercel.app/hero-art.png</image:loc>
+      <image:title>Faro Casino — официальный сайт для игры онлайн</image:title>
+      <image:caption>Faro Casino — официальный сайт, зеркало рабочее, играть онлайн</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farocasino17.vercel.app/games-art.png</image:loc>
+      <image:title>Каталог игр Faro Casino</image:title>
+      <image:caption>Слоты, рулетка, карты и live-дилеры в Faro Casino</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://farocasino17.vercel.app/mobile-art.png</image:loc>
+      <image:title>Faro Casino на мобильном</image:title>
+      <image:caption>Мобильная версия Faro Casino для iPhone и Android</image:caption>
+    </image:image>
+  </url>
+</urlset>
